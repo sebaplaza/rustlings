@@ -1038,6 +1038,42 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "alirezaghey",
+      "name": "alirezaghey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26653424?v=4",
+      "profile": "https://github.com/alirezaghey",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "frvannes16",
+      "name": "Franklin van Nes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3188475?v=4",
+      "profile": "https://github.com/frvannes16",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "nekonako",
+      "name": "nekonako",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46141275?v=4",
+      "profile": "https://nekonako.github.io",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "tan-zx",
+      "name": "ZX",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67887489?v=4",
+      "profile": "https://github.com/tan-zx",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 8,
